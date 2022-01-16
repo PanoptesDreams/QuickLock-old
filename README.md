@@ -1,5 +1,8 @@
 # QuickLock
-One click system lock
+One click system lock written in C#
+
+No project files provided just a the one .cs file
+Originally made in .net 5.0
 
 ### What does it do?
 It locks your Windows computer when executed.
