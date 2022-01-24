@@ -3,6 +3,7 @@ One click system lock written in C#
 
 No project files provided just a the one .cs file
 Originally made in .net 5.0
+Backported to .net 4.8 and moved to [a new repo](https://github.com/PanoptesDreams/QuickLock)
 
 ### What does it do?
 It locks your Windows computer when executed.
